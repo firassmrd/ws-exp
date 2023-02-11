@@ -1,0 +1,36 @@
+main {
+    width: 50%;
+    margin: auto;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+nav {
+    padding: 20px 20px;
+    background-color: blue;
+}
+a {
+    color: rgb(245, 243, 239);
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(51, 8, 207);
+}
+.home {
+    background-color: rgb(211, 211, 219)
+}
+h2 {
+    font-size: 31px;
+}
+.services {
+    background-color:rgb(73, 75, 70);
+}
+.contact {
+    background-color:gold;
+    color: linen;
+}
+body {
+    background-color: red;
+}
